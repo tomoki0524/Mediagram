@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>080F31D7-7834-4BB7-953C-D45CD24E44B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>080F31D7-7834-4BB7-953C-D45CD24E44B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318805.84656203</real>
+			<key>timeStoppedRecording</key>
+			<real>655318805.93834198</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>080F31D7-7834-4BB7-953C-D45CD24E44B8</string>
+		</dict>
+		<key>178D53D4-E6E1-4AFA-885D-F6C547563324</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>178D53D4-E6E1-4AFA-885D-F6C547563324.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318556.94611704</real>
+			<key>timeStoppedRecording</key>
+			<real>655318560.08295298</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>178D53D4-E6E1-4AFA-885D-F6C547563324</string>
+		</dict>
+		<key>50395B64-80A0-416D-BB30-B51FC5355428</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50395B64-80A0-416D-BB30-B51FC5355428.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318608.00714302</real>
+			<key>timeStoppedRecording</key>
+			<real>655318616.63745105</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>50395B64-80A0-416D-BB30-B51FC5355428</string>
+		</dict>
+		<key>678C67E9-8F1C-4698-8625-40AC2137F419</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>678C67E9-8F1C-4698-8625-40AC2137F419.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318174.68865502</real>
+			<key>timeStoppedRecording</key>
+			<real>655318174.77483201</real>
+			<key>title</key>
+			<string>Clean Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>678C67E9-8F1C-4698-8625-40AC2137F419</string>
+		</dict>
+		<key>7128A0B6-7A0F-4177-BC47-6D09F47F33F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7128A0B6-7A0F-4177-BC47-6D09F47F33F6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318810.38690996</real>
+			<key>timeStoppedRecording</key>
+			<real>655318810.42166495</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>7128A0B6-7A0F-4177-BC47-6D09F47F33F6</string>
+		</dict>
+		<key>7E2C5D03-4E39-44B0-929D-7C3260A559DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E2C5D03-4E39-44B0-929D-7C3260A559DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318204.35022795</real>
+			<key>timeStoppedRecording</key>
+			<real>655318213.85122705</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>7E2C5D03-4E39-44B0-929D-7C3260A559DC</string>
+		</dict>
+		<key>8A2A2C8D-A495-41D1-823B-D990FADA47AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A2A2C8D-A495-41D1-823B-D990FADA47AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318674.42492497</real>
+			<key>timeStoppedRecording</key>
+			<real>655318674.66762102</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>8A2A2C8D-A495-41D1-823B-D990FADA47AD</string>
+		</dict>
+		<key>8A82059B-C4D0-4F6D-A20A-3ABDBF485CE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A82059B-C4D0-4F6D-A20A-3ABDBF485CE0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318560.49091899</real>
+			<key>timeStoppedRecording</key>
+			<real>655318568.37358296</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>8A82059B-C4D0-4F6D-A20A-3ABDBF485CE0</string>
+		</dict>
+		<key>B4BAA2ED-9962-4197-AEE6-E6FDACC294A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4BAA2ED-9962-4197-AEE6-E6FDACC294A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318658.62703705</real>
+			<key>timeStoppedRecording</key>
+			<real>655318662.68046498</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>B4BAA2ED-9962-4197-AEE6-E6FDACC294A4</string>
+		</dict>
+		<key>EF170601-CB6A-4ABC-84E1-7CD9FCE348A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF170601-CB6A-4ABC-84E1-7CD9FCE348A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Mediagram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Mediagram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Mediagram</string>
+			<key>timeStartedRecording</key>
+			<real>655318750.75228298</real>
+			<key>timeStoppedRecording</key>
+			<real>655318750.79071796</real>
+			<key>title</key>
+			<string>Build Mediagram</string>
+			<key>uniqueIdentifier</key>
+			<string>EF170601-CB6A-4ABC-84E1-7CD9FCE348A1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
